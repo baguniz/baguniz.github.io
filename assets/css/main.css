@@ -2133,7 +2133,7 @@ input, select, textarea {
 
 	@media screen and (max-width: 470px) {
 		ul {
-			margin: 0 4em 2em 4em;
+			margin: 0 1em 2em 1em;
 		}
 	}
 		ul li {
