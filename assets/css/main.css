@@ -2124,12 +2124,18 @@ input, select, textarea {
 			padding-left: 0.25em;
 		}
 
+
 	ul {
 		list-style: disc;
 		margin: 0 0 2em 0;
 		padding-left: 1em;
 	}
 
+	@media screen and (max-width: 470px) {
+		ul {
+			margin: 0 4em 2em 4em;
+		}
+	}
 		ul li {
 			padding-left: 0.5em;
 		}
