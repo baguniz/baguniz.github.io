@@ -3684,7 +3684,7 @@ input, select, textarea {
 		}
 
 		#banner nav {
-			margin: 1.5em 0 0 0;
+			margin: 1.5em 1.5em 0 0;
 		}
 
 			#banner nav li {
@@ -3831,10 +3831,6 @@ input, select, textarea {
 
 			#banner h2 {
 				font-size: 1.25em;
-			}
-
-			#banner br {
-				display: none;
 			}
 		}
 
