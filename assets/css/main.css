@@ -2131,11 +2131,6 @@ input, select, textarea {
 		padding-left: 1em;
 	}
 
-	@media screen and (max-width: 470px) {
-		ul {
-			margin: 0 1em 2em 1em;
-		}
-	}
 		ul li {
 			padding-left: 0.5em;
 		}
